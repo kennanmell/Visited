@@ -1,0 +1,16 @@
+PODS:
+  - FSInteractiveMap (0.1.0)
+
+DEPENDENCIES:
+  - FSInteractiveMap
+
+SPEC REPOS:
+  trunk:
+    - FSInteractiveMap
+
+SPEC CHECKSUMS:
+  FSInteractiveMap: 43a8d1388056b21da95194528fc37e222c7dad50
+
+PODFILE CHECKSUM: 7e86739dd3c567cf06a00022fe5403df6dc79de8
+
+COCOAPODS: 1.12.1
